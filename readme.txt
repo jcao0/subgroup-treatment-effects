@@ -1,3 +1,5 @@
+This repo calculates bounds on subgroup treatment effects and subgroup proportion of winners discussed in Kaji & Cao (2023) Assessing Heterogeneity of Treatment Effects.
+
 To use ste package locally, copy all files in ste-stata/ folder to the Stata personal folder. 
 - Windows user: it is probably c:\ado\personal, but it might be someplace else.
 - Mac user: it is probably ~/Documents/Stata/ado, but it might be someplace else. See Accessing personal ado-files to learn how Stata determines which folder to use.
